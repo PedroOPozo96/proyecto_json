@@ -1,0 +1,293 @@
+{
+    "status": "OK",
+    "libros": [
+        {
+            "id": 1,
+            "nombre": "Alas de Sangre",
+            "autor": "YARROS, REBECCA",
+            "fecha_publicacion": "2023",
+            "editorial": "Planeta",
+            "precio": 20.95
+        },
+        {
+            "id": 2,
+            "nombre": "El señor de los anillos (Trilogía)",
+            "autor": "J. R. R. Tolkien",
+            "fecha_publicacion": "1954",
+            "editorial": "Minotauro",
+            "precio": 35.00
+        },
+        {
+            "id": 3,
+            "nombre": "1984",
+            "autor": "George Orwell",
+            "fecha_publicacion": "1949",
+            "editorial": "Debolsillo",
+            "precio": 10.99
+        },
+        {
+            "id": 4,
+            "nombre": "Una Corte de Rosas y Espinas",
+            "autor": "MAAS, SARAH J.",
+            "fecha_publicacion": "2015",
+            "editorial": "Destino",
+            "precio": 17.95
+        },
+        {
+            "id": 5,
+            "nombre": "Elantris",
+            "autor": "SANDERSON, BRANDON",
+            "fecha_publicacion": "2005",
+            "editorial": "Nova",
+            "precio": 21.50
+        },
+        {
+            "id": 6,
+            "nombre": "Dune",
+            "autor": "HERBERT, FRANK",
+            "fecha_publicacion": "1965",
+            "editorial": "Nova",
+            "precio": 24.95
+        },
+        {
+            "id": 7,
+            "nombre": "Juego de Tronos",
+            "autor": "MARTIN, GEORGE R.R.",
+            "fecha_publicacion": "1996",
+            "editorial": "Gigamesh",
+            "precio": 29.95
+        },
+        {
+            "id": 8,
+            "nombre": "Mitos Nórdicos",
+            "autor": "GAIMAN, NEIL",
+            "fecha_publicacion": "2017",
+            "editorial": "Destino",
+            "precio": 16.50
+        },
+        {
+            "id": 9,
+            "nombre": "My Hero Academia",
+            "autor": "Kohei Horikoshi",
+            "fecha_publicacion": "2014",
+            "editorial": "Norma Editorial",
+            "precio": 7.95
+        },
+        {
+            "id": 10,
+            "nombre": "Dragon Ball",
+            "autor": "Akira Toriyama",
+            "fecha_publicacion": "1984",
+            "editorial": "Planeta Cómic",
+            "precio": 12.95
+        },
+        {
+            "id": 11,
+            "nombre": "Don Quijote de la Mancha",
+            "autor": "Miguel de Cervantes",
+            "fecha_publicacion": "1605",
+            "editorial": "Cátedra",
+            "precio": 15.95
+        },
+        {
+            "id": 12,
+            "nombre": "El retrato de Dorian Gray",
+            "autor": "Oscar Wilde",
+            "fecha_publicacion": "1890",
+            "editorial": "Alianza Editorial",
+            "precio": 13.95
+        },
+        {
+            "id": 13,
+            "nombre": "Reina Roja",
+            "autor": "Juan Gomez Jurado",
+            "fecha_publicacion": "2018",
+            "editorial": "Ediciones B",
+            "precio": 19.95
+        },
+        {
+            "id": 14,
+            "nombre": "El Principito",
+            "autor": "Antoine de Saint-Exupéry",
+            "fecha_publicacion": "1943",
+            "editorial": "Salamandra",
+            "precio": 8.95
+        },
+        {
+            "id": 15,
+            "nombre": "El proceso",
+            "autor": "Franz Kafka",
+            "fecha_publicacion": "1925",
+            "editorial": "Alianza Editorial",
+            "precio": 9.95
+        },
+        {
+            "id": 16,
+            "nombre": "Caraval",
+            "autor": "GARBER, STEPHANIE",
+            "fecha_publicacion": "2017",
+            "editorial": "Planeta",
+            "precio": 18.95
+        },
+        {
+            "id": 17,
+            "nombre": "La Novia Gitana",
+            "autor": "MOLA, CARMEN",
+            "fecha_publicacion": "2018",
+            "editorial": "Alfaguara",
+            "precio": 22.95
+        },
+        {
+            "id": 18,
+            "nombre": "Harry Potter y La Piedra Filosofal",
+            "autor": "J.K. Rowling",
+            "fecha_publicacion": "1997",
+            "editorial": "Salamandra",
+            "precio": 21.00
+        },
+        {
+            "id": 19,
+            "nombre": "La Odisea",
+            "autor": "Homero",
+            "fecha_publicacion": "Siglo VIII a.C.",
+            "editorial": "Gredos",
+            "precio": 11.95
+        },
+        {
+            "id": 20,
+            "nombre": "The Amazing Spider-man",
+            "autor": "Stan Lee",
+            "fecha_publicacion": "1963",
+            "editorial": "Panini Cómics",
+            "precio": 25.00
+        },
+        {
+            "id": 21,
+            "nombre": "El guardián entre el centeno",
+            "autor": "J. D. Salinger",
+            "fecha_publicacion": "1951",
+            "editorial": "Alianza Editorial",
+            "precio": 10.50
+        },
+        {
+            "id": 22,
+            "nombre": "Cumbres borrascosas",
+            "autor": "Emily Brontë",
+            "fecha_publicacion": "1847",
+            "editorial": "Alianza Editorial",
+            "precio": 9.50
+        },
+        {
+            "id": 23,
+            "nombre": "Demon Slayer",
+            "autor": "Koyoharu Gotouge",
+            "fecha_publicacion": "2016",
+            "editorial": "Norma Editorial",
+            "precio": 7.95
+        },
+        {
+            "id": 24,
+            "nombre": "El Hobbit",
+            "autor": "J. R. R. Tolkien",
+            "fecha_publicacion": "1937",
+            "editorial": "Minotauro",
+            "precio": 15.00
+        },
+        {
+            "id": 25,
+            "nombre": "La Comunidad del Anillo",
+            "autor": "J. R. R. Tolkien",
+            "fecha_publicacion": "1954",
+            "editorial": "Minotauro",
+            "precio": 18.00
+        },
+        {
+            "id": 26,
+            "nombre": "El Silmarillion",
+            "autor": "J. R. R. Tolkien",
+            "fecha_publicacion": "1977",
+            "editorial": "Minotauro",
+            "precio": 20.00
+        },
+        {
+            "id": 27,
+            "nombre": "Fahrenheit 451",
+            "autor": "Ray Bradbury",
+            "fecha_publicacion": "1953",
+            "editorial": "Debolsillo",
+            "precio": 12.00
+        },
+        {
+            "id": 28,
+            "nombre": "Crónica de una muerte anunciada",
+            "autor": "Gabriel García Márquez",
+            "fecha_publicacion": "1981",
+            "editorial": "Plaza & Janés",
+            "precio": 14.95
+        },
+        {
+            "id": 29,
+            "nombre": "Cien años de soledad",
+            "autor": "Gabriel García Márquez",
+            "fecha_publicacion": "1967",
+            "editorial": "Sudamericana",
+            "precio": 16.00
+        },
+        {
+            "id": 30,
+            "nombre": "Do Androids Dream of Electric Sheep?",
+            "autor": "Philip K. Dick",
+            "fecha_publicacion": "1968",
+            "editorial": "Minotauro",
+            "precio": 13.50
+        },
+        {
+            "id": 31,
+            "nombre": "La Metamorfosis",
+            "autor": "Franz Kafka",
+            "fecha_publicacion": "1915",
+            "editorial": "Alianza Editorial",
+            "precio": 8.50
+        },
+        {
+            "id": 32,
+            "nombre": "El Castillo",
+            "autor": "Franz Kafka",
+            "fecha_publicacion": "1926",
+            "editorial": "Alianza Editorial",
+            "precio": 9.00
+        },
+        {
+            "id": 33,
+            "nombre": "Hacia Rutas Salvajes",
+            "autor": "Jon Krakauer",
+            "fecha_publicacion": "1996",
+            "editorial": "RBA Libros",
+            "precio": 17.95
+        },
+        {
+            "id": 34,
+            "nombre": "Los Juegos del Hambre",
+            "autor": "Suzanne Collins",
+            "fecha_publicacion": "2008",
+            "editorial": "Molino",
+            "precio": 18.95
+        },
+        {
+            "id": 35,
+            "nombre": "En Llamas",
+            "autor": "Suzanne Collins",
+            "fecha_publicacion": "2009",
+            "editorial": "Molino",
+            "precio": 18.95
+        },
+        {
+            "id": 36,
+            "nombre": "Sinsajo",
+            "autor": "Suzanne Collins",
+            "fecha_publicacion": "2010",
+            "editorial": "Molino",
+            "precio": 18.95
+        }
+    ]
+}
