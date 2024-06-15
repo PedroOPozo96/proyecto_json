@@ -1,4 +1,4 @@
-# Proyecto 
+# Proyecto Json
 
 El proyecto consiste en realizar un programa en Python que extraigan información de un fichero JSON. Para realizar el presente proyecto debes tener en cuenta los siguientes aspectos:
 
